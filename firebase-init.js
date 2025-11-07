@@ -1,12 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDHI8sWXCb7NIHGeuvVTdY_NkEBOk9s-ns",
-    authDomain: "projetogamificaeduk.firebaseapp.com",
-    projectId: "projetogamificaeduk",
-    storageBucket: "projetogamificaeduk.appspot.com",
-    messagingSenderId: "402375253085",
-    appId: "1:402375253085:web:c882c3e23942e5874801b4",
-    measurementId: "G-2TY4YPL585"
+  apiKey: "AIzaSyDF0Z5gEQQ9e7KX6Pkzlv681bTPVNZv-Lg",
+  authDomain: "login-6ed3a.firebaseapp.com",
+  projectId: "login-6ed3a",
+  storageBucket: "login-6ed3a.firebasestorage.app",
+  messagingSenderId: "613826437153",
+  appId: "1:613826437153:web:4c1053e4c7b94a5d704360",
+  measurementId: "G-W7JFRX9L7P"
   };
-
 firebase.initializeApp(firebaseConfig); 
-  
